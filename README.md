@@ -10,3 +10,7 @@
     <img src="https://img.shields.io/badge/Facebook-lightpink?style=for-the-badge&logo=facebook&logoColor=black" alt="Facebook Badge"/>
   </a>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nhudangstudy&style=flat-square&color=orange" alt="Profile View"/>
+</div>
